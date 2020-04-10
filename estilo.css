@@ -29,4 +29,44 @@ p{
     font-size: 14px;
 }
 
+ol{
+    list-style-type: none;
+    color: black;
+    background-color: gray;
+}
+
+ul{
+    color: white;
+}
+
+label{
+    font-weight: bolder;
+}
+
+table{
+    font-weight: bolder;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+th{
+    color: white;
+    background-color: black;
+}
+
+td{
+    color: black;
+    background-color: gray;
+    font-weight: bold;
+}
+
+footer{
+    background-color: gray;
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bolder;
+}
 
