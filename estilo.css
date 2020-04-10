@@ -1,0 +1,34 @@
+body{
+    background-color: blue;
+}
+
+h3{
+    color: white;
+}
+
+a:link, a:visited{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    border-top: 1px solid black;
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-right: 2px solid black;   
+}
+
+a:hover{
+    color: white;
+    background-color: red;
+}
+a:active{
+    background-color: green;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+ol{
+    
+}
